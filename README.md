@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Park Seo hyun</h1>
 <h3 align="center">Seoul National University of Science and Technology Major in Computer Science</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
